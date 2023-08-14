@@ -1,0 +1,7 @@
+predicted_classification,has_url,counts
+Neutral,Has URL,42671
+Neutral,No URL,53243
+Opponents,Has URL,28120
+Opponents,No URL,18507
+Supporters,Has URL,89012
+Supporters,No URL,94566
